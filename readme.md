@@ -1,12 +1,10 @@
 # comics.place
 
-> <DESCRIPTION>
+> webcomics-related functionality: discover, read, translate, publish, cross-post, collaborate
 
 
-<a href='./preview.png'><img height=100 border=2 align='right' alt='preview' src='./preview.png'></a>
 ## preview
-- [preview.html](./preview.html)
-- https://codepen.io/dym-sh/pen/___/left/?editors=0100
+![preview](./preview.png)
 
 
 ## mirrors
